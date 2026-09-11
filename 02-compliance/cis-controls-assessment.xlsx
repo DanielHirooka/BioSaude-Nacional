@@ -1,0 +1,20 @@
+Govern	    Parcial	2
+Identify	Parcial	2
+Protect	    Parcial	2
+Detect	    Fraco	1
+Respond	    Fraco	1
+Recover	    Parcial	2
+
+Asset Inventory;
+Software Inventory;
+Data Protection;
+Account Management;
+Access Control;
+Vulnerability Management;
+Audit Log Management;
+Malware Defense;
+Data Recovery;
+Network Monitoring;
+Incident Response;
+Application Security;
+Service Provider Management.
